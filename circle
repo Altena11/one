@@ -9930,7 +9930,7 @@ http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="WORLD SPORTS",MY| SPOTV 2 HD
 http://extraott.com:900/live/3162523972/3791698850/400459082.m3u8
-#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title=Sports"",MY| BEIN SPORTS HD
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="WORLD SPORTS",MY| BEIN SPORTS HD
 http://extraott.com:900/live/3162523972/3791698850/191881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="WORLD SPORTS",MY| BEIN SPORTS 2 HD
 http://extraott.com:900/live/3162523972/3791698850/29639.m3u8
