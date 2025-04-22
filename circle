@@ -9525,11 +9525,11 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
 
-#EXTM3U billed-msg="1 ID - 1 DEVIVE ONLY"
+#EXTM3U billed-msg="1 ID - 1 DEVICE ONLY"
 
 
-#EXTM3U 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://aqfadtv.xyz/epg" refresh="1440" vod_library="https://vod.pondan.workers.dev/dewanonton.json,"
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://aqfadtv.xyz/epg" refresh="1440" 
 
 
 
@@ -11245,7 +11245,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 ########################################################################RADIO#########################################################################################
-
+#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
