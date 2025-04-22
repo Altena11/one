@@ -11246,7 +11246,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 ########################################################################RADIO#########################################################################################
-#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
+#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html,https://vod.pondan.workers.dev/dewanonton.json"
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
