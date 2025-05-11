@@ -77,7 +77,7 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 
 ################################################################ASTROSPORTS##########################################################################################################################################
 group-logo="https://iili.io/dMQO9t4.png"
-#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" group-logo="group-logo="https://iili.io/dMQO9t4.png"" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena (2024).png",801 Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" group-logo="https://iili.io/dMQO9t4.png"" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena (2024).png",801 Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; T506D Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6204.0 Safari/537.36
