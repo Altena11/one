@@ -764,9 +764,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI (ON/OFF)" ch-number="108" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",Citr@ (TESTING CHANNEL ON/OFF)
-#EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
-http://83.142.30.171:8080/live/perfecttv/perfecttv/37.ts
+#EXTINF:-1 tvg-id="" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png" group-title="3 SERANGKAI (ON/OFF)",Citr@ (TESTING CHANNEL ON/OFF)
+http://opplex.tv:8080/mohsin655/4969292/388746
 
 ###############################################################MALAYSIA######################################################################################################################
 
