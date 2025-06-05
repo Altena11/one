@@ -733,7 +733,7 @@ https://flv.intechmedia.net/live/ch56.m3u8
 
 ###############################################3 SERANGKAI TEST#####################################################
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI (ON/OFF)" ch-number="104" "group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ (TESTING CHANNEL ON/OFF)
+#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI (ON/OFF)" ch-number="104" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ (TESTING CHANNEL ON/OFF)
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1004/
 ##EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
