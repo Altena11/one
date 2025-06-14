@@ -752,7 +752,7 @@ https://flv.intechmedia.net/live/ch56.m3u8
 ###############################################3 SERANGKAI TEST#####################################################
 
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
+#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
 #EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png" tvg-id="818.astro" group-title="3 SERANGKAI (ON/OFF)" ch-number="818" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",104 PRIM@ (TESTING CHANNEL ON/OFF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
