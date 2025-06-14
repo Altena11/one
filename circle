@@ -752,13 +752,13 @@ https://flv.intechmedia.net/live/ch56.m3u8
 ###############################################3 SERANGKAI TEST#####################################################
 
 
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="3 SERANGKAI (ON/OFF)" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 PRIM@ (TESTING CHANNEL ON/OFF)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk3Nzg4NzMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5ODUzODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWM1MDlkM2MtMzQxZS00NzE0LThhM2YtZjNiM2Q3NDVhZDdlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.fXCUe5aDoG29kklpoHPwWgFkE3_UeX3Nr7pcjfoPP-w
-
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
+#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png" tvg-id="818.astro" group-title="3 SERANGKAI (ON/OFF)" ch-number="818" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",104 PRIM@ (TESTING CHANNEL ON/OFF)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=astrogo
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="3 SERANGKAI (ON/OFF)" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 PRIM@ (TESTING CHANNEL ON/OFF)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
