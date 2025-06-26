@@ -140,7 +140,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
