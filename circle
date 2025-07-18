@@ -147,8 +147,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS",815 Astro Badminton
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="SPORTS",815 Astro Badminton
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505aefcda9084f83bc5c6cc53f0ef9c6:f89898184ed921e225cd89f4d2ea1035
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd
 
 #EXTINF:-1 tvg-id="AstroBadminton2" ch-number="816" group-title="SPORTS" ch-number="816" tvg-logo="https://i.ibb.co/mcmpN9b/Astro-Badminton-2.webp",816 Astro Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
