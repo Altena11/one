@@ -764,7 +764,7 @@ https://flv.intechmedia.net/live/ch56.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="3 SERANGKAI (ON/OFF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 RI@ (TESTING CHANNEL ON/OFF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHT5bLv7HSomV86o_LR-fGUc=g2BJ/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHWh9wuFZI9jzN0kUSJh4ryc=hiZP/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
 
@@ -776,7 +776,7 @@ https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHT5bLv7HSomV86o
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="3 SERANGKAI (ON/OFF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 PRIM@ (TESTING CHANNEL ON/OFF)
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41b9I9IK2KUz80nJrXdKYkSRaL8IIzk7wgq4kWnOk-OAE=Zk_6/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=48e431ef-14a7-4422-85d0-3cde0535ba39
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41b9I9IK2KUz80nJrXdKYkSbsKbHBhpqnMpa1Tw5yT5Ts=A2JK/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=db56356f-a728-456f-acdc-68a80b8e2779
 
 
 
@@ -786,7 +786,7 @@ https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="3 SERANGKAI (ON/OFF)" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 CITR@ (TESTING CHANNEL ON/OFF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41MgP8xcDuTzecD_Hk2nh2KLQJ4F_6XjXV7lcAEnPtouc=s04Z/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=564db317-82c2-413b-81d0-0153f023cbf0
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/41MgP8xcDuTzecD_Hk2nh2KNv93kKxOGHGA2TbDZrLieo=ovwn/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=00c576d4-c775-4407-bbfe-adfa3f077586
 
 
 ###############################################################MALAYSIA######################################################################################################################
