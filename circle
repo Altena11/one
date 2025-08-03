@@ -85,8 +85,10 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="3 SERANGKAI (ON/OFF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 RI@ (TESTING CHANNEL ON/OFF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHWncLk-9FL6pwvE-h02fjNg=bG_-/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHWncLk-9FL6pwvE-h02fjNg=bG_-/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" group-logo="https://iili.io/dMQO9t4.png" group-title="3 SERANGKAI (ON/OFF)",104 RI@ (TESTING CHANNEL ON/OFF)
+https://hakim45.serv00.net/smarttv.php?id=Ria
 
 
 
