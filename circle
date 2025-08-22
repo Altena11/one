@@ -130,7 +130,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="SPORTS",803 Astro Arena Bola (SERVER 1)
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+#https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",804 Arena Bola 2 
