@@ -1401,6 +1401,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 
+
+#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://i.ibb.co/tWz8pS3/Astro-AEC-2024.png" group-title="CHINESE" ch-number="306",306 Astro AEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH13-dash/default_ott.mpd?astro=true&aws.sessionId=6d293f33-6b38-49a9-89e1-f7de5b4f2a74
+
 #############################################################BRUNEI################################################################################################
  
 
