@@ -265,20 +265,6 @@ https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
 #https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd
 
-#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 SD ((Server 1))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
-
-#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MYTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3 HD ((Server 2))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#https://live-ssar-02.tonton.com.my/1756447762/0x6f6db9eadad5a1f637d075c316f53730a704e058466288daadb2f412dfab547f/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10e3b11b78-0c0401f8-aa5a-4aef-ad81-e81f8d0e6b4b&category=all&did=ed841c97-a3df-7190-aa5f-a25a295b1dcd&dnt=0&ifatype=sessionid&lot_auds=ca_336,ca_364,all,ca_987,ca_323,ca_060,ca_394,ca_286,ca_777,ca_958,ca_038,ca_752,ca_027,ca_362,ca_080,ca_1023,ca_1000,ca_347,ca_807,ca_047,ca_417,ca_252,ca_994,ca_328,ca_042,ca_939,ca_074,ca_1040,ca_780,ca_009,ca_232,ca_163,ca_365,ca_672,ca_051,ca_717,ca_354,ca_356,ca_327,ca_353,ca_803,ca_384,ca_972,ca_784,ca_023,ca_062,ca_261,ca_730,ca_358,ca_897,ca_006,ca_1003,ca_962,ca_789,ca_797,ca_1016,ca_1011,ca_068,ca_342,ca_321,ca_1096,,ca_253,ca_267,ca_066,ca_948,ca_329,ca_359,ca_335,ca_351,ca_202,ca_350,ca_360,ca_964,ca_355,ca_1034,ca_251,ca_141,ca_083,ca_348,ca_071,ca_302,ca_344,ca_291,ca_338,ca_061,ca_378,ca_775,ca_156,ca_1056,ca_376,ca_1101,ca_779,ca_330,ca_020,ca_332,ca_072,ca_363,ca_046,ca_959,ca_015,ca_013,ca_1007,ca_069,ca_304,ca_782,ca_236,ca_216,ca_1035,ca_239,ca_357,ca_324,ca_773,ca_787,ca_288,ca_724,ca_305,ca_788,ca_325,ca_050,ca_420,ca_333,ca_317,ca_285,ca_991&mm_sp&plt=web&ttd_uid2=A4AAABX2JNn07Cp8ykWYJSHdFrkPErGepJVYM0BGclDFTmUDedaCGmXn7yQkj-JimbU39sh6mifmQWinMhvaBY15T30lmFnLjmhE2sI6GWD6rpOvAl6K5fMSgAukeem9WixztUPxqBDe1iK1MEZa8W8zo0JH_KoPPj4jcBm1NcgLtBRm77w4kSHbc74P3yj959WVp5sUJpC6ciWWxiWRq3N0bw
-
 #EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="SPORTS" tvg-logo="https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png" ch-number="816", 816 Astro Badminton 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
@@ -388,12 +374,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",822 BeIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
 
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="SPORTS", Dazn 1 
 http://tooontv.com:999/live/ere3444h/agape/188510.m3u
