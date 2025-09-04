@@ -131,7 +131,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
