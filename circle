@@ -790,12 +790,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 #EXTINF:-1 tvg-id="TV2" ch-number="102" tvg-name="TV2 HD"" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png", 102 TV2 (SERVER 1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
-#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
-#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-#EXTINF:-1 ttvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+https://live-ssar-02.tonton.com.my/1758034421/0x8d9273700ab2c119ec636fef4f3d15ef1d7ce6843730e147560e28d033db22d9/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10d3b34f121-123add98-b5f5-4464-ab9c-7bc8aeafcc2b&category=all&did=7ccad04a-c5c8-dd80-8599-c295abc537c2&dnt=0&ifatype=sessionid&lot_auds=ca_420,ca_797,ca_376,ca_261,ca_782,ca_302,ca_777,ca_323,ca_351,ca_1011,ca_061,ca_417,ca_071,ca_1035,ca_202,ca_324,all,ca_328,ca_803,ca_1023,ca_338,ca_364,ca_1040,ca_304,ca_360,ca_267,ca_330,ca_013,ca_350,ca_779,ca_1101,ca_363,ca_291,ca_236,ca_333,ca_083,ca_362,ca_948,ca_251,ca_239,ca_046,ca_384,ca_788,ca_047,ca_358,ca_378,ca_359,ca_730,ca_042,ca_348,ca_752,ca_051,ca_784,ca_342,ca_1016,ca_353,ca_672,ca_060,ca_009,ca_365,ca_347,ca_069,ca_027,ca_023,ca_072,ca_321,,ca_253,ca_038,ca_074,ca_1034,ca_336,ca_959,ca_897,ca_317,ca_015,ca_252,ca_232,ca_939,ca_062,ca_141,ca_807,ca_958,ca_286,ca_325,ca_285,ca_020,ca_357,ca_355,ca_156,ca_080,ca_994,ca_964,ca_050,ca_216,ca_335,ca_991,ca_972,ca_717,ca_773,ca_327,ca_163,ca_1096,ca_1007,ca_006,ca_724,ca_329,ca_288,ca_068,ca_775,ca_394,ca_780,ca_305,ca_354,ca_356,ca_987,ca_787,ca_962,ca_1056,ca_344,ca_789&mm_sp&plt=web&ttd_uid2=A4AAABfIVKOZB72POR0IlF2wmed0qVBc279ZnnHbm_Y7acDcVpeSWNkLIGAx0McJVOyDZz_nITcf10PIhgo_LcHKcdbTrAevQFP43aLPGfmsjCOhbdEetCJr6GP9ICtP1isev0iAkahms-FguXEvwRRxBBIdf_57S8bE1zL32GqDYUXhdsoORWL8GHNKTYpC6Ny1yYvVdo6Ah86Ugti26oUUXw
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -865,12 +865,13 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
 
-#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
 
+#EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41Ee7PmQKYWYnvQPPbR9jmvKo78MruW2HWnzD-ovLVzQk=zVqC/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="633.unifi" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" group-title="MALAYSIA",Parlimen Malaysia
@@ -1223,13 +1224,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
 
-
 #EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #EXTINF:-1 tvg-id="306.astro" tvg-logo="https://i.ibb.co/tWz8pS3/Astro-AEC-2024.png" group-title="CHINESE" ch-number="306",306 Astro AEC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH13-dash/default_ott.mpd?astro=true&aws.sessionId=6d293f33-6b38-49a9-89e1-f7de5b4f2a74
+https://6d89103bd71249868d55d5f309068b0c.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH13-dash/default_ott.mpd?astro=true&aws.sessionId=e419e26a-9f78-49f0-be2d-020712420181
 
 #############################################################BRUNEI################################################################################################
  
@@ -1566,11 +1566,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
+
 #EXTINF:-1 group-logo="https://iili.io/dMQO9t4.png"
-#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41Ee7PmQKYWYnvQPPbR9jmvKo78MruW2HWnzD-ovLVzQk=zVqC/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
   
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Astro_Tutor_TV_%282024%29.png" group-title="KIDS",603 Astro Tutor TV
