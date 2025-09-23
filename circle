@@ -1440,7 +1440,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #######################################################################DOCUMENTARY######################################################################################
 
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet HD" group-logo="https://iili.io/dMQO9t4.png" group-title="DOCUMENTARY" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",556 Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet" group-logo="https://iili.io/dMQO9t4.png" tvg-name="Animal Planet HD" group-title="DOCUMENTARY" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png",556 Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
