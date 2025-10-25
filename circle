@@ -792,12 +792,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#https://live-ssar-02.tonton.com.my/1758034421/0x8d9273700ab2c119ec636fef4f3d15ef1d7ce6843730e147560e28d033db22d9/stream-tv3/master_1080.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&bpkio_sessionid=10d3b34f121-123add98-b5f5-4464-ab9c-7bc8aeafcc2b&category=all&did=7ccad04a-c5c8-dd80-8599-c295abc537c2&dnt=0&ifatype=sessionid&lot_auds=ca_420,ca_797,ca_376,ca_261,ca_782,ca_302,ca_777,ca_323,ca_351,ca_1011,ca_061,ca_417,ca_071,ca_1035,ca_202,ca_324,all,ca_328,ca_803,ca_1023,ca_338,ca_364,ca_1040,ca_304,ca_360,ca_267,ca_330,ca_013,ca_350,ca_779,ca_1101,ca_363,ca_291,ca_236,ca_333,ca_083,ca_362,ca_948,ca_251,ca_239,ca_046,ca_384,ca_788,ca_047,ca_358,ca_378,ca_359,ca_730,ca_042,ca_348,ca_752,ca_051,ca_784,ca_342,ca_1016,ca_353,ca_672,ca_060,ca_009,ca_365,ca_347,ca_069,ca_027,ca_023,ca_072,ca_321,,ca_253,ca_038,ca_074,ca_1034,ca_336,ca_959,ca_897,ca_317,ca_015,ca_252,ca_232,ca_939,ca_062,ca_141,ca_807,ca_958,ca_286,ca_325,ca_285,ca_020,ca_357,ca_355,ca_156,ca_080,ca_994,ca_964,ca_050,ca_216,ca_335,ca_991,ca_9#72,ca_717,ca_773,ca_327,ca_163,ca_1096,ca_1007,ca_006,ca_724,ca_329,ca_288,ca_068,ca_775,ca_394,ca_780,ca_305,ca_354,ca_356,ca_987,ca_787,ca_962,ca_1056,ca_344,ca_789&mm_sp&plt=web&ttd_uid2=A4AAABfIVKOZB72POR0IlF2wmed0qVBc279ZnnHbm_Y7acDcVpeSWNkLIGAx0McJVOyDZz_nITcf10PIhgo_LcHKcdbTrAevQFP43aLPGfmsjCOhbdEetCJr6GP9ICtP1isev0iAkahms-FguXEvwRRxBBIdf_57S8bE1zL32GqDYUXhdsoORWL8GHNKTYpC6Ny1yYvVdo6Ah86Ugti26oUUXw
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -805,6 +799,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 ttvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 ttvg-id="TV3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", 103 TV3 (SERVER 1)
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
 
     
 #EXTINF:-1 tvg-id="122.unifi" ch-number="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",122 TVS Sarawak
