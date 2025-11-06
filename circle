@@ -95,7 +95,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 
 
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" group-title="SPORTS",803 Astro Arena Bola HDD
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" group-title="SPORTS",803 Astro Arena Bola HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
