@@ -2871,7 +2871,7 @@ group-logo="https://iili.io/KrpZctj.png"
 #https://linears2-playback.astro.com.my/vsg/41t-TXSnexA-mG4G3cEivBPnX9gj4K1IV_vpFoMNGYOYA=gq6A/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="3 TEST CHANNEL ON/OFF" ch-number="104" group-logo="https://iili.io/KrpZctj.png"
-#EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="LIVE EVENT" tvg-id="104.astro" tvg-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" ,Ri@
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" group-title="LIVE EVENT" tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ,Ri@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
