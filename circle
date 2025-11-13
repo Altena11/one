@@ -907,13 +907,8 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" group-logo="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MALAYSIA", 113 Astro Aura  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MALAYSIA",113 Astro Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
