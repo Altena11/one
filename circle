@@ -117,7 +117,7 @@ https://linears2-playback.astro.com.my/vsg/41ybZC6MC19wMfd_J9TOzYhCJhdH15RnUC6do
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
-#https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
+https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" ch-number="804" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png" group-title="SPORTS",804 Astro Arena Bola 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -136,7 +136,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,7 +149,7 @@ https://linears2-playback.astro.com.my/vsg/41GjIT0-pGycQPrBG26uL1aleco5GPdCyWXUi
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League FHD
-#https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague.mpd
+https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS",812 Astro Premier League 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -162,7 +162,7 @@ https://linears2-playback.astro.com.my/vsg/41b_Zf2xbgptnOkMLzmq0yezVSAWS-Rapx1X_
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"}
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 FHD
-#https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague2.mpd
+https://stream-mts.cdnmts.org/mtsstream/AstroxPrimearLeague2.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
