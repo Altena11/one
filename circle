@@ -2897,7 +2897,7 @@ group-logo="https://iili.io/KrpZctj.png"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 ch-number="104" tvg-id="AstroRia" tvg-name="Astro Ria" group-title="3 TEST CHANNEL ON/OFF" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png.jpg",Ri@
-https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcmdnwbPTXtAFFZwZL6RysYs=9-gV/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcvkQXVGdNCMaYO1_ryzNBPg=8Z_z/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" group-title="3 TEST CHANNEL ON/OFF" tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png.jpg",Ri@
@@ -2922,7 +2922,7 @@ https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcmdnwbPTXtAFFZw
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 ch-number="105" tvg-id="AstroPrima" tvg-name="Astro Prima" group-title="3 TEST CHANNEL ON/OFF" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png",Prima@
-https://linears2-playback.astro.com.my/vsg/41CD-NyuuMXX8kB1OV6jyQ-VLZ1L3VQ6RFWJiJJ3reN8w=RXJD/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41CD-NyuuMXX8kB1OV6jyQ-co5FCarNeBevqi0pFw6woE=6nwM/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 --------------------------------------------------------
 #KODIPROP:inputstreamaddon=inputstream.adaptive
