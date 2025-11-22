@@ -200,7 +200,7 @@ https://53308ba99bd1418388e4bff908902bf9.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
-https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41Epg5nPwM_ARoRbhOwCk8d3rcDreyldzv9YfylPetO9A=WNWe/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=9bdca0fc-bfd7-4d06-b181-040c24132301
+https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41Epg5nPwM_ARoRbhOwCk8d2T19NOjqxGn573T44aiec0=w9lL/dash-wv/jitp-dashisowm/2104/default_ott.mpd?aws.sessionId=ef3a7d09-f011-4ef2-a947-ad00f2e6871e
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
