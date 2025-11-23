@@ -2949,7 +2949,7 @@ group-logo="https://iili.io/KrpZctj.png"
 #https://linears2-playback.astro.com.my/vsg/41NkHHl0Nc26oNawDtQ-2TcqnsTVs1EOJixnlfn8rNA4Y=JB_L/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" group-title="LIVE EVENT" tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png.jpg",Ri@
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" group-title="3 TEST CHANNEL ON/OFF" tvg-id="104.astro" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png.jpg",Ri@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
