@@ -2844,7 +2844,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://i.ibb.co/k41FFxG/image.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="3 TEST CHANNEL ON/OFF" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",Ri@
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="3 TEST CHANNEL ON/OFF" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",Ri@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41qqwRwR1sE1YPH4TYw1bw-e7PMfP3EfhOnCGpQoVRQRg=CfHq/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
