@@ -264,7 +264,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_ott.mpd
 
 
-#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" tvg-chno="2904" group-title="WORLD SPORTS",WWE Network
+#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png" tvg-chno="2904" group-title="SPORTS",WWE Network
 https://jmp2.uk/stvp-US700005ID
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
