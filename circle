@@ -2972,7 +2972,14 @@ https://linears2-playback.astro.com.my/vsg/41qqwRwR1sE1YPH4TYw1bw-e7PMfP3EfhOnCG
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="3 TEST CHANNEL ON/OFF" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",Prim@
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41FyglPkcDTtLXaKBzKjRzoVoYOwGrmzLhn7T_65vQ5i4=-Gsg/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=bc79c05c-b8a5-4beb-96e7-dc18c37a6b1e
+#https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41FyglPkcDTtLXaKBzKjRzoVoYOwGrmzLhn7T_65vQ5i4=-Gsg/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=bc79c05c-b8a5-4beb-96e7-dc18c37a6b1e
+
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" group-title="3 TEST CHANNEL ON/OFF" tvg-id="105.astro" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ,Prim@
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
+#https://get.perfecttv.net/vod_jwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primachd|authorization=Bearer 
+https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
 
 --------------------------------------------------------
 
