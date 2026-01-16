@@ -35,15 +35,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 
 ##803
-#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD 
+#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (( Unstable ))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #https://linears2-playback.astro.com.my/vsg/413SYnmpIy3JMlkOWLf54rJ2wsuJRKegM3Od71YoMXpPQ=OKs6/dash-wv/jitp-linearwm/5099/default_primary.mpd
-#https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/413SYnmpIy3JMlkOWLf54rJ2wsuJRKegM3Od71YoMXpPQ=OKs6/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=44eba670-8491-4e81-a7e7-3f7ada37fec0
-https://load.perfecttv.net/rwt.mpd?channel=bola1fhd
+https://mt24.aa.astro.com.my/vsg/413SYnmpIy3JMlkOWLf54rJ-gSkw_JYPkmUozbSvvzLEU=xQD2/dash-wv/jitp-linearwm/5099/default_primary.mpd
+#https://load.perfecttv.net/rwt.mpd?channel=bola1fhd
 
 @#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -57,12 +57,12 @@ https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 
 ##804
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD 
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (( Unstable ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41QWthYx2Qa16Q225lyMVJqnbGV1edFUeDT1hlb0SQGMo=CGtg/dash-wv/jitp-linearwm/5100/default_primary.mpd
-https://load.perfecttv.net/rwt.mpd?channel=bola2fhd
+https://linears2-playback.astro.com.my/vsg/41QWthYx2Qa16Q225lyMVJqpOA07QkE4AOR4lYlkmOD5o=4PNV/dash-wv/jitp-linearwm/5100/default_primary.mpd
+#https://load.perfecttv.net/rwt.mpd?channel=bola2fhd
 
 @#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -74,11 +74,12 @@ https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 
 ##811
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD 
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD (( Unstable ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41yH69qcwi4sU_oOOeIdmyVncjrgDHr-y4OKP3k9ReQvM=f0pp/dash-wv/jitp-linearwm/601/default_primary.mpd
+#https://linears2-playback.astro.com.my/vsg/41yH69qcwi4sU_oOOeIdmyVncjrgDHr-y4OKP3k9ReQvM=f0pp/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://mt26.aa.astro.com.my/vsg/41yH69qcwi4sU_oOOeIdmyVqIbNA7kbAyDH5zEbuynx_c=teLF/dash-wv/jitp-linearwm/601/default_primary.mpd
 #https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 @#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD
@@ -92,11 +93,12 @@ https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUz
 
 
 ##812
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD 
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (( Unstable ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSl4YhB1Z7jwnZCEJO2OMScw=2WUm/dash-wv/jitp-linearwm/2104/default_primary.mpd
+#https://linears2-playback.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSl4YhB1Z7jwnZCEJO2OMScw=2WUm/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://mt27.aa.astro.com.my/vsg/41KrG3IJsKlb8z90Ct63KdSqDgtHrrK9UjwqMY2SB-5MM=uPvm/dash-wv/jitp-linearwm/2104/default_primary.mpd
 #https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 @#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD
@@ -110,13 +112,13 @@ https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 
 ##815
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD 
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (( Unstable ))
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/418QZ40ZNRlP9-UFnCCWTkT8ssj_ZSDWdc1nf2eRrE5ig=iRUo/dash-wv/jitp-linearwm/5170/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/418QZ40ZNRlP9-UFnCCWTkT9HT1Yd1_mt33FPi677_JoI=TaUp/dash-wv/jitp-linearwm/5170/default_primary.mpd
 #https://live.aqfadtv.xyz/badminton/index.mpd
-https://load.perfecttv.net/rwt.mpd?channel=badmintonfhd
+#https://load.perfecttv.net/rwt.mpd?channel=badmintonfhd
 
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD
