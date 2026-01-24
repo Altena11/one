@@ -53,8 +53,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 #EXTVLCOPT:clock-synchro=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://live.aqfadtv.xyz/arenabola/index.mpd
+#https://load.perfecttv.net/rwt.mpd?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola1hd
 
-#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD ( Server 1 )
+@#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD ( B )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
 #EXTVLCOPT:network-caching=10000
@@ -64,23 +65,10 @@ https://live.aqfadtv.xyz/arenabola/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
 https://l01.dp.sooka.my/5099/linear/index.mpd
 
-@#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-#https://load.perfecttv.net/rwt.mpd?username=vip_0qqkjlcn&password=WzTwvgxl&channel=bola1hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/mpd/bola1/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=bola1fhd
-
-
-@#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD ( Server 1 ) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1" ,"fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
-#EXTVLCOPT:http-user-agent=com.astro.sookadongle/25.03.12 Dalvik/2.1.0 (Linux; U; Android 12; sooka-TV-v1 Build/STT5.220127.002)
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Njg4MDc2NDMsImlzcyI6IlZSIiwiZXhwIjoxNzY4ODYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZDA4ZDczOTUtOTIxYy00ZWRkLWI0MTQtZDQzMzU0Nzg0MGE2IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUwOTkifQ.Ms0Z_5hmvs20oHnP_ITUpVhJMAr4A46gi-8a81rcJLI"}
-https://l01.dp.sooka.my/5099/linear/index.mpd
+#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD ( B )
+#EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
+#EXTVLCOPT:network-caching=8000
+http://iptv12k.com:35461/m260106454300923/111111/20630
 
 
 
@@ -103,9 +91,9 @@ https://l01.dp.sooka.my/5099/linear/index.mpd
 #EXTVLCOPT:clock-synchro=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://live.aqfadtv.xyz/arenabola2/index.mpd
-#https://load.perfecttv.net/mpd/bola2/manifest.mpd?channel=bola2hd
+#https://load.perfecttv.net/mpd/bola2/manifest.mpd?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola2hd
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD ( Server 1 )
+@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD ( B )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
 #EXTVLCOPT:network-caching=8000
@@ -115,26 +103,10 @@ https://live.aqfadtv.xyz/arenabola2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
 https://l02.dp.sooka.my/5100/linear/index.mpd
 
-@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD ( Server 2 )
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD ( B )
 #EXTVLCOPT:http-user-agent=VLC/3.0.16 LibVLC/3.0.16
 #EXTVLCOPT:network-caching=8000
-http://iptv12k.com:35461/live/m260106454300923/111111/20629.ts
-
-
-@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://load.perfecttv.net/mpd/bola2/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=bola2
-
-@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1314914fb4f94984b7a7572a03b69f93":"7ec8c4186df69a58cf640291a7c9ac7c","f166a88a7f1b40bba2e399bf2f972365":"abf14067e089861730f4c6ff24b52dba"}
-https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjgyNjI5NzIsImlzcyI6IlZSIiwiZXhwIjoxNzY4MzQzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzJkMjE5ZGEtMTlmMi00ZDU3LWIzMWQtMmNlMDc2OTI1MzEyIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.p_onl60BcXZDZk7C2xdDQFUVWHSWMZqmR84XC7mFRMs
+http://iptv12k.com:35461/m260106454300923/111111/20629
 
 
 
@@ -196,7 +168,7 @@ https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUz
 https://live.aqfadtv.xyz/premierleague2/index.mpd
 
 
-@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD B 
+@#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD ( B ) 
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -235,7 +207,7 @@ https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #EXTVLCOPT:clock-synchro=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://live.aqfadtv.xyz/badminton/index.mpd
-
+#https://load.perfecttv.net/mpd/badminton/manifest.mpd?username=vip_q71m0c0p&password=TTQtGNkD&channel=badmintonfhd
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
