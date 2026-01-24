@@ -250,11 +250,23 @@ https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 
 
 ##611
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41KkRj_6MgPUG5bhGk3FZMZUBv7k7B5F1HjsNBLWZAVTg=awQL/dash-wv/jitp-linearwm/2606/default_primary.mpd
+#KODIPROP:inputstream.adaptive.stream_selection=adaptive
+#KODIPROP:inputstream.adaptive.max_bandwidth=6000000
+#KODIPROP:inputstream.adaptive.min_bandwidth=1200000
+#KODIPROP:inputstream.adaptive.buffer_size=20
+#KODIPROP:inputstream.adaptive.buffer_size_live=30
+#KODIPROP:inputstream.adaptive.live_delay=8
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/ceria/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=ceria
 
 
