@@ -36,13 +36,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 
 ##803
 #EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD 
-http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1034247.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; HBP-LX9 Build/HUAWEIHBP-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36
+https://live.aqfadtv.xyz/arenabola/index.mpd
 #https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
 #https://arenabola.gemivo2851.workers.dev/
-#https://live.aqfadtv.xyz/arenabola/index.mpd
+#http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1034247.m3u8
+
 
 @#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD ( B )
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,9 +64,10 @@ https://l01.dp.sooka.my/5099/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#https://load.perfecttv.net/mpd/bola2/manifest.mpd?channel=bola2
 #https://load.perfecttv.net/mpd/bola2/manifest.mpd?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola2fhd
-#https://live.aqfadtv.xyz/arenabola2/index.mpd
+https://live.aqfadtv.xyz/arenabola2/index.mpd
+
+@#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD 
 https://arena2.gemivo2851.workers.dev/
 
 
@@ -94,13 +96,8 @@ http://mytv-extra.com:80/live/V713SWTY/D8T8KGTL/1159.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
 https://live.aqfadtv.xyz/premierleague/index.mpd
+#https://load.perfecttv.net/mpd/epl1/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=epl1
 
-@#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-https://load.perfecttv.net/mpd/epl1/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=epl1
 
 @#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Sports",811 Premier League HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
