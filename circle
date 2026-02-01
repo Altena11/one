@@ -1133,10 +1133,10 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 ##################################INDIAN##################################
 
 
-#EXTINF:-1  group-logo="https://iili.io/KrpZctj.png" group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqkI13LMu9ZJkaBc4AvEs6N0NwEzvEIT2h6pkBpARRgAUnElL9zlcl_BbDy2HVdMvm3dr15RZkmcYhmJrU9yo8OfRGRkccB_pwsUJZ3cUy8hKMwt0I1HlysOXefS0n7F2JmW4Cl4bChdLRlGZMczBnYKcpywBbLGPga5oGJBGw7PsjvskDglOjsN53euMr",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1  group-logo="https://iili.io/KrpZctj.png" group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqkI13LMu9ZJkaBc4AvEs6N0NwEzvEIT2h6pkBpARRgAUnElL9zlcl_BbDy2HVdMvm3dr15RZkmcYhmJrU9yo8OfRGRkccB_pwsUJZ3cUy8hKMwt0I1HlysOXefS0n7F2JmW4Cl4bChdLRlGZMczBnYKcpywBbLGPga5oGJBGw7PsjvskDglOjsN53euMr",Bollywood HD
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="241.astro" ch-number="241" tvg-name="ABOMovies Thangathirai HD" group-logo="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhUqQMNCG126HR1T42ORyzWuHOC6PIWXUnRnF0AI4IpeaUkFvrKieZcqsiHvAyolVz78iaKsC01rQvyp8BN1sppokWf053HRc9mQ7o4HbwMPRLP3XGnIIIQ43JyqE9_eu56Lva5WU1SN_WNVwPKWwAcCGFDDMlYesbWfQSd0Iy_yntJtTmkzRXe5L0I0-IM" group-title="Indian", 241 Astro BOX OFFICE
+#EXTINF:-1 tvg-id="241.astro" ch-number="241" tvg-name="ABOMovies Thangathirai HD" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhUqQMNCG126HR1T42ORyzWuHOC6PIWXUnRnF0AI4IpeaUkFvrKieZcqsiHvAyolVz78iaKsC01rQvyp8BN1sppokWf053HRc9mQ7o4HbwMPRLP3XGnIIIQ43JyqE9_eu56Lva5WU1SN_WNVwPKWwAcCGFDDMlYesbWfQSd0Iy_yntJtTmkzRXe5L0I0-IM" group-title=" Indian", 241 Astro BOX OFFICE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
@@ -1146,19 +1146,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh66MyNdrzzeFdK8CmYrlWFVsHbALY6pPHLPRxW4FakdKgQM6Rr3pjXzVsc-W_vM5IgbWq6EguQ59qgamOjG4ud0nZx6P1jubcDRnhaoxIlGdEhVLwUAXwJl0F5KrS0uCbFOF1UicKMPy4wCmOS_RGMc1xjvCscHYBZlKQpm06lrS1wLuWCHM5OfgTRhE_Q",202 Astro Vinmeen
+#EXTINF:-1  tvg-id="202" ch-number=" " tvg-name="Astro Vinmeen HD" group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh66MyNdrzzeFdK8CmYrlWFVsHbALY6pPHLPRxW4FakdKgQM6Rr3pjXzVsc-W_vM5IgbWq6EguQ59qgamOjG4ud0nZx6P1jubcDRnhaoxIlGdEhVLwUAXwJl0F5KrS0uCbFOF1UicKMPy4wCmOS_RGMc1xjvCscHYBZlKQpm06lrS1wLuWCHM5OfgTRhE_Q",202 Astro Vinmeen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2105/default_ott.mpd
 
 
 
-#EXTINF:-1  tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VAANAVIL.png",201 ASTRO VAANAVIL
+#EXTINF:-1  tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil HD" group-title=" Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VAANAVIL.png",201 ASTRO VAANAVIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1  tvg-id="AstroVellithiraiHD" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZ90Z30LmtPwpBwnVt5PS4KiW9rDRneGMsgcAuvnhcCH784A1wo2kasGnX45mvs3ynjrdf9AfuxBiGF8qeuT2gx4CM6V7RwP9ZUKvhqYzjLiI6FPkjspAzoH0dqV0h2as6K6k9JniCeGNCee3EmHPeoAzupaeH-P-F8doxoOueGvWzCzP08FsEgjbB_Gnj" group-title="Indian",203 ASTRO VELLITHIRAI
+#EXTINF:-1  tvg-id="AstroVellithiraiHD" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiZ90Z30LmtPwpBwnVt5PS4KiW9rDRneGMsgcAuvnhcCH784A1wo2kasGnX45mvs3ynjrdf9AfuxBiGF8qeuT2gx4CM6V7RwP9ZUKvhqYzjLiI6FPkjspAzoH0dqV0h2as6K6k9JniCeGNCee3EmHPeoAzupaeH-P-F8doxoOueGvWzCzP08FsEgjbB_Gnj" group-title=" Indian",203 ASTRO VELLITHIRAI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -1169,7 +1169,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="ColorsHD" tvg-name="Colors Hindi HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",116 COLORS HINDI
+#EXTINF:-1  tvg-id="ColorsHD" tvg-name="Colors Hindi HD" group-title=" Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",116 COLORS HINDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
@@ -1178,12 +1178,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",222 COLORS TAMIL
+#EXTINF:-1  tvg-id="ColorsTamilHD" tvg-name="Colors Tamil HD" group-title=" Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_COLORS.png",222 COLORS TAMIL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 
-#EXTINF:-1  tvg-id="SunTV" tvg-name="SUN TV HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",211 SUN TV
+#EXTINF:-1  tvg-id="SunTV" tvg-name="SUN TV HD" group-title=" Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",211 SUN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -1193,7 +1193,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
 
 
-#EXTINF:-1  tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",221 STAR VIJAY
+#EXTINF:-1  tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title=" Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",221 STAR VIJAY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -1201,17 +1201,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA","kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="Indian" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_ZEETV.png",223 ZEE TAMIL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="223.astro" tvg-name="ZEE TAMIL HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_ZEETV.png" group-title=" Indian" ch-number="223",223 Zee Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
-#EXTINF:-1  tvg-id="203" ch-number="203" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Thaai vaazthu
+#EXTINF:-1  tvg-id="203" ch-number="203" group-title=" Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",203 Thaai vaazthu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
 #http://iptv12k.com:35461/80201051217/424567/1827
@@ -1221,17 +1218,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 
 
-#EXTINF:0 group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidQb9OlSQzjPFmKW8xbfISiLHslRiGHbarAoqNWiUcPVbooxviyO_r9GU5WxBMOyt0waJoBKPUWYB_2Xn2Ik3jpEVqnLiKEpBqQMalUBMC1qcqjI7CbLJ_prv0sKqzT6yR-DOvRbBJd-ZVNvTq5wMJyNO-kili7l12YZfXHEBddzOlpGkU2P_A4SZ0e3rk", 3 Tamil
+#EXTINF:0 group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEidQb9OlSQzjPFmKW8xbfISiLHslRiGHbarAoqNWiUcPVbooxviyO_r9GU5WxBMOyt0waJoBKPUWYB_2Xn2Ik3jpEVqnLiKEpBqQMalUBMC1qcqjI7CbLJ_prv0sKqzT6yR-DOvRbBJd-ZVNvTq5wMJyNO-kili7l12YZfXHEBddzOlpGkU2P_A4SZ0e3rk", 3 Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 #https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:0 group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOfg2Cg46evMk4fEAMtabui3z6rkDSSvBggNFPU31H61RJflusPQnjZ8p_-vk6vrxT0Pd5Qh87j0uHluWhiD6-xu5a_O03M6Sha0eYGOghaDS25wvHz5fWjDamiCxyUpnAoQpL0mC_FdbxKfd0D9oJjK5LdKjCJi_EXR4HqXBGvaijT9V8Kj2hULJQ7RoO",7Star TV
+#EXTINF:0 group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjOfg2Cg46evMk4fEAMtabui3z6rkDSSvBggNFPU31H61RJflusPQnjZ8p_-vk6vrxT0Pd5Qh87j0uHluWhiD6-xu5a_O03M6Sha0eYGOghaDS25wvHz5fWjDamiCxyUpnAoQpL0mC_FdbxKfd0D9oJjK5LdKjCJi_EXR4HqXBGvaijT9V8Kj2hULJQ7RoO",7Star TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
 
 
@@ -1240,7 +1237,7 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title="Indian" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",221 STAR VIJAY
+#EXTINF:-1  tvg-id="StarVijay" tvg-name="Star Vijay HD" group-title=" Indian" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VIJAY2.png",221 STAR VIJAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
@@ -1251,7 +1248,7 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" } 
-#EXTINF:-1  ch-number=" " tvg-name="Sun Music HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihm6LgxkYS5oOZayC_OoZoHJxQGpTGIExhQ3P0jvIwFdgVgpDv1-zjmd5hMJnwS-_nWhnJlikZE-NnShWsMHuv2WfjfFoncC6BH5wEyG9abISq40NP0q_PeIOZGaXvy_CqqkY0B0ArtpmY2SNI0xBfiKFxiCHycVIBMjUZH1P3mC0qV4YXCBUxgljwZ4kP" group-title="Indian" tvg-id="212" ch-number=" " tvg-name="212",212 Sun Music HD
+#EXTINF:-1  ch-number=" " tvg-name="Sun Music HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEihm6LgxkYS5oOZayC_OoZoHJxQGpTGIExhQ3P0jvIwFdgVgpDv1-zjmd5hMJnwS-_nWhnJlikZE-NnShWsMHuv2WfjfFoncC6BH5wEyG9abISq40NP0q_PeIOZGaXvy_CqqkY0B0ArtpmY2SNI0xBfiKFxiCHycVIBMjUZH1P3mC0qV4YXCBUxgljwZ4kP" group-title=" Indian" tvg-id="212" ch-number=" " tvg-name="212",212 Sun Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
@@ -1259,7 +1256,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="ColorsHD" tvg-name="Colors Hindi HD" group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhZ0L_uKQJhBZZscalprCJ7UNKGTraMBZtZIJDXPvU6_opjbPfqE8a723UwSmpuxjhWNOw_Zj3ARWzrnkTFdBmVid_LmAdwV-NUmravhNlFihn4tmfRwfl5t1mrGaXxwRFft7KZM2D48k9O2y3tr2207Z8qk7EO13FCU-fhCsS3X1XpVE81EyqoQ973EisY",116 COLORS HINDI
+#EXTINF:-1  tvg-id="ColorsHD" tvg-name="Colors Hindi HD" group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhZ0L_uKQJhBZZscalprCJ7UNKGTraMBZtZIJDXPvU6_opjbPfqE8a723UwSmpuxjhWNOw_Zj3ARWzrnkTFdBmVid_LmAdwV-NUmravhNlFihn4tmfRwfl5t1mrGaXxwRFft7KZM2D48k9O2y3tr2207Z8qk7EO13FCU-fhCsS3X1XpVE81EyqoQ973EisY",116 COLORS HINDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd  
   
@@ -1268,7 +1265,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaYDF1JpjdLc_ADr3Zy3IYQs_3dHii5ha0AmALrc__DtoBRdrgJ9l-G8N_ZzOTMFqRUHbUnbo6gGg1fUluBXRKTwTtptUYv8R1vaH1qK7mjGUwrD_dZvHcp7XfJXTcvGN0U6flOtId1vGHSYeW03LToPiPsziOjyKbHiukMX0jyu1L0EjuJ0QbytgovcA" group-title="Indian", 222 Colors Tamil
+#EXTINF:-1  tvg-id="222" tvg-name="Colors Tamil HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaYDF1JpjdLc_ADr3Zy3IYQs_3dHii5ha0AmALrc__DtoBRdrgJ9l-G8N_ZzOTMFqRUHbUnbo6gGg1fUluBXRKTwTtptUYv8R1vaH1qK7mjGUwrD_dZvHcp7XfJXTcvGN0U6flOtId1vGHSYeW03LToPiPsziOjyKbHiukMX0jyu1L0EjuJ0QbytgovcA" group-title=" Indian", 222 Colors Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
@@ -1279,29 +1276,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="SunTV" tvg-name="SUN TV HD" group-title="Indian" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",211 SUN TV
+#EXTINF:-1  tvg-id="SunTV" tvg-name="SUN TV HD" group-title=" Indian" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_SUNTV.png",211 SUN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd  
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1  tvg-id="214" ch-number="214" ch-number=" " tvg-name="Adithya" group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiDVy5lMeu9c_UGjL-Nlr1XZaEfbsEQAmp6cIUlumJsMO-1q1cSa02PZpRuREVhNnE72Y0lsO0168zY56hIiFyCsvZWy_vOIeu23OyUU7jiytI1nx5-dq-57Wraak-96q8k1Xvswq1lKuZx2KvZNy20h_K6Wib-kaFIMgcj-lzfzeALdPN8LPMAdGjEl9t",214 Adithya 
+#EXTINF:-1  tvg-id="214" ch-number="214" ch-number=" " tvg-name="Adithya" group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiiDVy5lMeu9c_UGjL-Nlr1XZaEfbsEQAmp6cIUlumJsMO-1q1cSa02PZpRuREVhNnE72Y0lsO0168zY56hIiFyCsvZWy_vOIeu23OyUU7jiytI1nx5-dq-57Wraak-96q8k1Xvswq1lKuZx2KvZNy20h_K6Wib-kaFIMgcj-lzfzeALdPN8LPMAdGjEl9t",214 Adithya 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd 
 
-#EXTINF:-1  tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJrUZHTKQDWW5mrpZzFcr8MhIWBvs3cff3QjZx9slS0Lm3jLjgdfv13z4XFhv5IOerBfViLbKw8FfR03qCIXuo1DZRUHw29GhRtS6sI3nJo8SBNcx6iPpx-b27oMh6edEFLhhj1BmQl_JhVQneyAagVYdr3LH1zdZ07-4pKkkSYEXLYOytqCE0-kxUJQC6" group-title="Indian",251 Zee Cinema
+#EXTINF:-1  tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhJrUZHTKQDWW5mrpZzFcr8MhIWBvs3cff3QjZx9slS0Lm3jLjgdfv13z4XFhv5IOerBfViLbKw8FfR03qCIXuo1DZRUHw29GhRtS6sI3nJo8SBNcx6iPpx-b27oMh6edEFLhhj1BmQl_JhVQneyAagVYdr3LH1zdZ07-4pKkkSYEXLYOytqCE0-kxUJQC6" group-title=" Indian",251 Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-*#EXTINF:-1  tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title="Indian",Zee TV 
+*#EXTINF:-1  tvg-id="Zee TV" tvg-name="Zee TV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title=" Indian",Zee TV 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 
 https://github.com/karlfazreen/playlist/disneychannel.m3u8
 
-#EXTINF:-1  tvg-id="216" ch-number=" " tvg-name="KTV" group-title="Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5WKu1poFikpz6YAm7Cl12XLwBdUyk1sdhKDrLwNDLARp7hbsMfIAsEqStm5LeNP0imUXEzCudcOQGoBftwIwVVwEFET_evN9QXN3nEtDcqGvxzgBzEUXIr2KDKzLlipYTP_m7TZvugubpFP80ow9VLkR8WEmI51-GPWa2vCxNw8JYxceX-KmySCOzfhYL",216 Ktv
+#EXTINF:-1  tvg-id="216" ch-number=" " tvg-name="KTV" group-title=" Indian" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj5WKu1poFikpz6YAm7Cl12XLwBdUyk1sdhKDrLwNDLARp7hbsMfIAsEqStm5LeNP0imUXEzCudcOQGoBftwIwVVwEFET_evN9QXN3nEtDcqGvxzgBzEUXIr2KDKzLlipYTP_m7TZvugubpFP80ow9VLkR8WEmI51-GPWa2vCxNw8JYxceX-KmySCOzfhYL",216 Ktv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
