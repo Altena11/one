@@ -227,12 +227,11 @@ https://qeqa.my.id/starstudio2/deny.php?channel=boo_b&user=49477272&e=1769693550
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#https://load.perfecttv.net/mpd/ceria/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=ceria
-#https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41crlcD5wbvSvdDVwD1-AzXYp8cRH7bt37d9YUHbiBzJE=thEs/dash-wv/jitp-dashisowm/609/default_ott.mpd?aws.sessionId=ee7f6d54-e4e7-4909-9005-e443c540d2ca
+#https://linears2-playback.astro.com.my/vsg/41M5mtT5NqINkq9ZcwkCb8zKK4M2LwRjojzAIW8lr756g=GIP7/dash-wv/jitp-linearwm/2606/default_ott.mpd
 https://load.perfecttv.net/mpd/ceria/manifest.mpd
 
-@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Server 1)
-https://qeqa.my.id/starstudio2/deny.php?channel=ceria_a&user=49477272&e=1769693550&s=1772756637af42cdb1f016f4dfdeec9fa8f8968de8d8ceb8e04cb4042682f33d&device_id=60e76a981f5434eb1f3c7f92cc94e5fc
+@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD 
+https://qeqa.my.id/starstudio2/deny.php?channel=ceria_a&user=49477272&e=1769789580&s=40f2a8e54832c2d1b7107558344b98fcfd933d18018ec21e6077754651299b25&device_id=60e76a981f5434eb1f3c7f92cc94e5fc
 
 
 ##113
