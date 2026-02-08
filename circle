@@ -17,7 +17,7 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 ##################### SPORTS CHANNEL ##################### 
 
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports", Arena Bola A
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://iili.io/KrpZctj.png" group-title="Sports", Arena Bola A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 7.1; Em7BrA9V Build/jnHcQd; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
@@ -25,7 +25,7 @@ https://0e29359d-913c-4f35-a4f6-774d3790f5fb.xuanxicatyt888-e61cfc80.site/bola1/
 
 ********* Arena Bola 2 A **********
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOh68HqNuy_TCwpkyh8-nIOvWiN1hMqeYmPuZiJU1UyC3x1YrOmLSVNuFDcOmG9Fs4nUBQEVL7Z9aCBUhBiQORckEoXJOcEqZrtUwPv5yMQaLC9ml4Qmv5Tihy02UpwBwHnhnzmNEzjZXESGWf6gAGyy4qk4bd61BkeY4-yIWnI4NeBvIOjyjvf7fy9dNN" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports",Arena Bola 2 A
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiOh68HqNuy_TCwpkyh8-nIOvWiN1hMqeYmPuZiJU1UyC3x1YrOmLSVNuFDcOmG9Fs4nUBQEVL7Z9aCBUhBiQORckEoXJOcEqZrtUwPv5yMQaLC9ml4Qmv5Tihy02UpwBwHnhnzmNEzjZXESGWf6gAGyy4qk4bd61BkeY4-yIWnI4NeBvIOjyjvf7fy9dNN" group-logo="https://iili.io/KrpZctj.png" group-title="Sports",Arena Bola 2 A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 7.1; Em7BrA9V Build/jnHcQd; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
@@ -50,7 +50,7 @@ https://load.perfecttv.net/mpd/epl2/manifest.mpd
 
 ********* Badminton A **********
 
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton A
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://iili.io/KrpZctj.png" group-title="Sports" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -111,7 +111,7 @@ https://qeqa.my.id/starstudio2/deny.php?channel=astro_badminton_b&user=49477272&
 
 ********* Arena Bola C **********
 
-#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports",Arena Bola C
+#EXTINF:-1 tvg-id="AstroArenaBola" ch-number="803" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiBB0CSAWrqhC0r7ZwQ4oH7VmW8DS4wWiud1jFAdWlSgf7TT2096iOvEabF-g9SI5XoApaY0XMjONURBmFfF91fg9vn29Jgi1kRSzm-lzZNsCJlM3ZKjy59pPzKn21KUWmtiZqbZTM3NulVhdiNJ4on1SMLzoCf2MmFZMP3uS2gvLKWSkZbep2BSNshzwCo" group-logo="https://iili.io/KrpZctj.png" group-title="Sports",Arena Bola C
 https://qeqa.my.id/starstudio2/deny.php?channel=arena_bola_c&user=49477272&e=1770560875&s=3d8b92a1f6f753f72478f5a59ad06aa5a410ed63c481c86d709f70917f9e77ab&device_id=ec2dab9840aa775aae7555ebdf1f18cc
 
 ********* Arena Bola 2 C **********
@@ -131,11 +131,11 @@ https://qeqa.my.id/starstudio2/deny.php?channel=premier_league_2_c&user=49477272
 
 ********* Badminton C **********
 
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton C
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-logo="https://iili.io/KrpZctj.png" group-title="Sports" ch-number="815" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBc7NVB1EqxbCTjJwHFAJGNUCgk2R5yxvxrxrUxxORBmrW26nZuoJRijZVM5T06Mmv2wUGSslk3DGLZDQt49793E2NOqQYscl68nVPSGCYOeFQcZqq02BVdmXXPd1WUNtvmMj5-VysmNQ7GALa57joD9rV8-jNIW8YT57GqzmIzzJ6lHSQ089fO0XCPDQB",Astro Badminton C
 https://qeqa.my.id/starstudio2/deny.php?channel=astro_badminton_c&user=49477272&e=1770560875&s=277a1b5c9c9a1cd5e676664833c468158ff0f333f800405641f0909d0bd7bfaa&device_id=ec2dab9840aa775aae7555ebdf1f18cc
 
 
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg"  tvg-id="AstroArena" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhlQKbIUltL4x9uQu06oZPEZHuTKd_HprEKroG19Wt0ra-6OvkNsahGs5fVf6FY_zrgoSM9JEOyChCcw7zDT7JMjD0Bvxx8dNMMOWGRhwBjEwVLP_Qg9RMLaVjtMWqlpYFpM9n-EPBo4rgdALPRGd19Ycj-YmX--S4CVBBMBM-rUF7kitXI0oZ8EKTh-K68" group-title="Sports",801 Astro Arena HD
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png"  tvg-id="AstroArena" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhlQKbIUltL4x9uQu06oZPEZHuTKd_HprEKroG19Wt0ra-6OvkNsahGs5fVf6FY_zrgoSM9JEOyChCcw7zDT7JMjD0Bvxx8dNMMOWGRhwBjEwVLP_Qg9RMLaVjtMWqlpYFpM9n-EPBo4rgdALPRGd19Ycj-YmX--S4CVBBMBM-rUF7kitXI0oZ8EKTh-K68" group-title="Sports",801 Astro Arena HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -151,7 +151,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 ❌❌❌❌❌ GRANDSTAND ❌❌❌❌❌
 
-#EXTINF:-1 tvg-id="810.astro" ch-number="810" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibIhqgbaZffDPIg3JS24HKTb4fzvoCrIuMKVZGWjs1hKTCMqVYLBzImrr1MQol_38rD59afzXIR1LinvLBBmOW9NuLVRXfnur934efwpUwHHFvNXeQ0NlM6h6OvEGXVEY7tN-BYibnMMGMX_8M1yTAup5rLZSbrEqnGp3s3evGW3ekygKgaWSOHdhko9J_" group-logo="https://iili.io/3O8mkdv.jpg" group-title="Sports",810 Astro Grandstand
+#EXTINF:-1 tvg-id="810.astro" ch-number="810" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEibIhqgbaZffDPIg3JS24HKTb4fzvoCrIuMKVZGWjs1hKTCMqVYLBzImrr1MQol_38rD59afzXIR1LinvLBBmOW9NuLVRXfnur934efwpUwHHFvNXeQ0NlM6h6OvEGXVEY7tN-BYibnMMGMX_8M1yTAup5rLZSbrEqnGp3s3evGW3ekygKgaWSOHdhko9J_" group-logo="https://iili.io/KrpZctj.png" group-title="Sports",810 Astro Grandstand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
@@ -171,7 +171,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" } 
-#EXTINF:-1  tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",832 ASTRO CRICKET
+#EXTINF:-1  tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" group-logo="https://iili.io/KrpZctj.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",832 ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 
 https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a
  
@@ -246,7 +246,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-#EXTINF:0 tvg-id="701" group-logo="https://iili.io/3O8mkdv.jpg" group-title=" SPORTS" tvg-name="unifi Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgYUm0CZJKTfB-EGZrEhcru6C8GPh6BCQ4mJjbBCSKBdLmtlgQ6RWfZ5-RJXObWVVT_8vOq4QN84HsffEknkWwWVg6AvWWrjdkOp-mcl29nb8qVnlRq-4bvn9nvhY8d8Rgf6haGTB9iciBjW7jprlqhtzdshEtffqWZzje56cKCkEfnoQRne9uqbbeKv3WH",Unifi Sports 1 HD
+#EXTINF:0 tvg-id="701" group-logo="https://iili.io/KrpZctj.png" group-title=" SPORTS" tvg-name="unifi Sports 1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgYUm0CZJKTfB-EGZrEhcru6C8GPh6BCQ4mJjbBCSKBdLmtlgQ6RWfZ5-RJXObWVVT_8vOq4QN84HsffEknkWwWVg6AvWWrjdkOp-mcl29nb8qVnlRq-4bvn9nvhY8d8Rgf6haGTB9iciBjW7jprlqhtzdshEtffqWZzje56cKCkEfnoQRne9uqbbeKv3WH",Unifi Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
