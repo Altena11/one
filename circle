@@ -205,7 +205,7 @@ https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KsiyUbOihnXyDJX11yVyKOo4=vRyg/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=c9f9c09c-62d7-4430-9134-304d3e02575b
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KskCDLy-2iUZPAi4XkqiDjs8=rtke/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=a8c80aa1-76f1-48ab-be71-864db2df56ca
 
 ##404
 #EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="Movies" ch-number="404",404 BOO 
@@ -214,37 +214,39 @@ https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.co
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KsiyUbOihnXyDJX11yVyKOo4=vRyg/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=c9f9c09c-62d7-4430-9134-304d3e02575b
+https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KskCDLy-2iUZPAi4XkqiDjs8=rtke/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=a8c80aa1-76f1-48ab-be71-864db2df56ca
 
-@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="Malaysia" ch-number="404",404 BOO
-#https://qeqa.my.id/starstudio2/deny.php?channel=boo_a&user=49477272&e=1769693550&s=2422fdb8c08ac2814e474a522cc56190fe60f4cceaa65f5af5d538fe944a4c4a&device_id=60e76a981f5434eb1f3c7f92cc94e5fc
-https://qeqa.my.id/starstudio2/deny.php?channel=boo_a&user=49477272&e=1769846222&s=6abe2b9f76a5b4b229bd04287b0aa31418b469b33bd40ee834114fb0a4fc6464&device_id=60e76a981f5434eb1f3c7f92cc94e5fc
 
 
 ##611
+@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+https://linears2-playback.astro.com.my/vsg/41M5mtT5NqINkq9ZcwkCb8zIKAz5c4-EtRG9zSyxpDcXQ=WjSQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
+
+
 #EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#https://linears2-playback.astro.com.my/vsg/41M5mtT5NqINkq9ZcwkCb8zHUa81-RrcLe3upAWKJDwK4=j58x/dash-wv/jitp-linearwm/2606/default_ott.mpd
 https://load.perfecttv.net/mpd/ceria/manifest.mpd
 
-@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD 
-https://qeqa.my.id/starstudio2/deny.php?channel=ceria_a&user=49477272&e=1769789580&s=40f2a8e54832c2d1b7107558344b98fcfd933d18018ec21e6077754651299b25&device_id=60e76a981f5434eb1f3c7f92cc94e5fc
 
 
 ##113
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malaysia", 113 Aura HD 
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malaysia", 113 Aura HD  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41crlcD5wbvSvdDVwD1-AzXYp8cRH7bt37d9YUHbiBzJE=thEs/dash-wv/jitp-dashisowm/609/default_ott.mpd?aws.sessionId=ee7f6d54-e4e7-4909-9005-e443c540d2ca
-#https://load.perfecttv.net/rwt.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=aurahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/mpd/aura/manifest.mpd
+https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41edcZjJiqKhRxBjxc1ULpW9Thiri9NL2BBzOzQna_uSs=3UgF/dash-wv/jitp-dashisowm/609/default_ott.mpd?aws.sessionId=58ce70fd-25d2-4e14-ac7f-d382ba34e1a7
+#https://load.perfecttv.net/mpd/aura/manifest.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malaysia", 113 Aura HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -258,15 +260,14 @@ https://l04.dp.sooka.my/609/linear/index.mpd
 
 
 ##112
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Malaysia" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD 
+#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Malaysia" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41gsnXMAUV2IMjhl4F0y7oNOXs1VkArJXBfNV9Nh2jmH4=OFot/dash-wv/jitp-dashisowm/608/default_ott.mpd?aws.sessionId=5bc2320c-fd91-4132-a6af-81595c989fb1
-#https://load.perfecttv.net/rwt.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=raniahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://load.perfecttv.net/mpd/rania/manifest.mpd
+https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41-E0hlTtIOOO3E9hE_L-ff8mybDFjkYKeG-UQAKFEzVc=78SB/dash-wv/jitp-dashisowm/608/default_ott.mpd?aws.sessionId=66650427-c452-43e0-b1f4-77cf16fde525
+#https://load.perfecttv.net/mpd/rania/manifest.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Malaysia" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -280,67 +281,6 @@ https://l05.dp.sooka.my/608/linear/index.mpd
 
 #############################################################################
 
-
-##611
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Kids" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_selection=adaptive
-#KODIPROP:inputstream.adaptive.max_bandwidth=6000000
-#KODIPROP:inputstream.adaptive.min_bandwidth=1200000
-#KODIPROP:inputstream.adaptive.buffer_size=20
-#KODIPROP:inputstream.adaptive.buffer_size_live=30
-#KODIPROP:inputstream.adaptive.live_delay=8
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:live-caching=3000
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; wv) AppleWebKit/537.36 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://load.perfecttv.net/mpd/ceria/manifest.mpd?username=vip_j4yck1td&password=CE23n9ee&channel=ceria
-
-
-##113
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Drama", 113 Aura HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 
-#https://464672d5a59d4c4298eb0a9e7ce0e3d9.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH7-dash/vsg/41crlcD5wbvSvdDVwD1-AzXYp8cRH7bt37d9YUHbiBzJE=thEs/dash-wv/jitp-dashisowm/609/default_ott.mpd?aws.sessionId=ee7f6d54-e4e7-4909-9005-e443c540d2ca
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aurahd
-
-@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="113.astro" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Drama", 113 Aura HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=7b21ef61dd6b4020927f0b1eef05f750:6b29a0cc634208f13cbd8216b1f16898
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://l04.dp.sooka.my/609/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjUzMjU0MjksImlzcyI6IlZSIiwiZXhwIjoxNzY1NDA1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjA5In0.80dU_VslAxpbF0UlaYkUO2WHnPP1kmscK5J2emRKrZ4
-
-
-
-
-##112
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Drama" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.366
-#https://0c9704d594f84b209c42ee0ae4015752.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH6-dash/vsg/41gsnXMAUV2IMjhl4F0y7oNOXs1VkArJXBfNV9Nh2jmH4=OFot/dash-wv/jitp-dashisowm/608/default_ott.mpd?aws.sessionId=5bc2320c-fd91-4132-a6af-81595c989fb1
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=raniahd
-
-@#EXTINF:-1 group-logo="https://iili.io/KrpZctj.png" tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Drama" tvg-logo="https://i.ibb.co/nSLyVxS/Astro-Rania-2024.png",112 Rania HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=75cefb063f754b52bf2e695e8ec8eb29:f5c0bc7625e6c067e84a9b2a76689cb5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://l05.dp.sooka.my/608/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjUzMjU0MDksImlzcyI6IlZSIiwiZXhwIjoxNzY1NDA1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjA4In0.URJ9N2iVJqHxn9Bvf7gNyKs5ulBEJBFXaG4d9aQxd_s
-
-
-###################################################
 
 
 ##816
