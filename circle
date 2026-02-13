@@ -44,7 +44,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/411x4h7rMdOlhwLHlxJurxWHJ_8a5WMdW12_aG6deoE1k=R4-S/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=158c4ae2-073b-4edb-a02a-96d310964111
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/411x4h7rMdOlhwLHlxJurxWCjRszeB33VNtuZQyK35RWQ=dIFO/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=eb35370c-e602-4636-a0a9-c5157e0a34b3
 
 
 @#EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD 
@@ -77,7 +77,7 @@ https://l01.dp.sooka.my/5099/linear/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41-VNlU-dqDJCmwEI9THw2atcn0Yv3Z-dFfhNJKz5zaYo=JGxr/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41-VNlU-dqDJCmwEI9THw2ajXxXDKlGhDo-PeSIWIzJhM=B9c4/dash-wv/jitp-linearwm/5100/default_ott.mpd
 #https://0e29359d-913c-4f35-a4f6-774d3790f5fb.xuanxicatyt888-e61cfc80.site/bola2/index.mpd?uuid=372dd02f-70b1-4a25-9ccc-475facadc192&referrer=ZFNHCU
 
 @#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD 
@@ -175,7 +175,7 @@ https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41waUq65v5z6EqzAnCu90gFlXYB8QYGt0KbobzDGF5ETI=rXn8/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=8b810452-f5a8-420f-8d6f-215c70c7f97e
+https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41waUq65v5z6EqzAnCu90gFhn11510_mV87NEci4OvBNQ=7PqM/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=16f6194d-bee4-4a6c-bbe2-2e8ed3287eae
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD A 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
