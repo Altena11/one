@@ -2045,6 +2045,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 #https://qeqa.my.id/starstudio2/deny.php?channel=ceria_b&user=49477272&e=1769611302&s=178379a49872e4a7188d22b60d70c123a140cf1212b76cbf41ad6cf2c60fc79e&device_id=ec2dab9840aa775aae7555ebdf1f18cc
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids",611 Ceria HD (Server 1)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+#KODIPROP:inputstream.adaptive.license_key=337ef92bfeeb4b599248841cc916ce24:a31f174c1abe17c2b08fb94dd521283c
+#https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
+http://ma-yi.k.vu/mayi/697456c165396.php?id=Ceria
+https://mimipipi22.github.io/logo/offline.m3u8
+
 #EXTINF:-1  tvg-id="CBeebies" tvg-name="CBeebies" group-title="Kids" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEipAPehJucYc3yzgVqDhgYwQXEuPWHzGpuGUfCcpIY635tJueUbHpXF0H_ZYj5xb4cJRWlmuFzCw1V9ZYRI_u1jZgoWkQ-2qmOFlsGPy1nLzxjfIQjmhNondcN_ug42NH0UqyENpI3umWUc3AFwMje7z95UPh-COrx32VnOlFaIXev4jgDTy39U0EsNXhM0",620 CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
