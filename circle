@@ -1285,180 +1285,119 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
 ##################################INDONESIA##################################
 
-#EXTINF:-1  tvg-id="TVRINasional.id" group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgiNlN2j-abh0QnUQJOJzN5DligivWT5dX6Yy9s69oTRsOag_xWrx441Gfi1tK6Oq6KBqGpwlFhKhSeg86mRutT_tsHtWRj4PMoYkxSCKR5egRPL-WX0-fOhqRxRoXRr_gyN2ABM5R17d-ZCF6DHSOmO7VeZdpJPZFvjXZaeC4B5i-d95f5J3jU1N0XQa4x"  group-title="Indonesia",TVRI Nasional (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=https://klik.tvri.go.id/
-
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBXt57iWeX3ITF49jsUCNUw6OVUXGWmeHPT8vNbEV5wkQRYm_crCxYNWOc8Zq_5y8lIQbJetm13WLqB1jaeinlFqTDUdW6a1LUb_yUitO6DvgqUcniL87YNLLw67Ndh-1ePTGfTms1z2T8Pm0njzosaYcNZFOmMUDQsuMTti-E17-wnH42V84BNf6ndBSM" group-title="Indonesia",MNCTV 
-http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
-
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBXt57iWeX3ITF49jsUCNUw6OVUXGWmeHPT8vNbEV5wkQRYm_crCxYNWOc8Zq_5y8lIQbJetm13WLqB1jaeinlFqTDUdW6a1LUb_yUitO6DvgqUcniL87YNLLw67Ndh-1ePTGfTms1z2T8Pm0njzosaYcNZFOmMUDQsuMTti-E17-wnH42V84BNf6ndBSM" group-title="Indonesia",MNCTV A
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="AstroRania" tvg-name="ASTRO RANIA HD" group-title="Indonesia" group-logo="https://da.gd/ffliqid" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png",112 ASTRO RANIA
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-
-
+#EXTINF:-1 tvg-id="TVRIWorld.id" group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="INDONESIA",TVRI World
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+ 
+#EXTINF:-1 tvg-id="TVRINasional.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI Nasional 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+    
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/BKVwKxn3/RCTI.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1  group-title="Indonesia" tvg-id="" tvg-chno="" group-logo="https://da.gd/ffliqsg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiVgbVfhg1YZRt_1zn4Eo4CqKloqYaOyiGsatfMN4t4KV78BJXnvvVVN8t7_bjXKl64Hli4mF5B-F5P8PW_-Wb5KE7SxrZ8oopDKi7fWoFtXdpCtLr-akwhuBN2dyhF-sTAqIMdkhoO1m0PvTTZHMypMFkw4y1vGAzATvgor2qeL6yPmtZOWQ6bKNCdy7gi",ANIMAX (ID)
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
-  
-#EXTINF:-1 tvg-id="RCTI.id" ch-number="156" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEinGs2kTyxh7oMveQq1V9ekI8AEMsbAjGwZgdoXNtShWkMDES1eDXT0LrNcrEuLdv6qJi6l4covomlF0iNEi9B9LtiVl9JmVpzhakAFXp3EdW8t1ar6spedHfmbJUHLXEcGMXOiUqhAvL4XqDHCKx6etrLbNSa9s_0hQ8kH3ykdZAJ7qUfcsJ3gOq0wQSOU" group-title="Indonesia",RCTI 
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="AstroAura.my" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" group-logo="https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/logo1/INDOLOGO.jpg" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDpO05Qj8Q9j5hVscnMpvlZj2wmAId1UHfYc-jny5EHpB31Yckz04lbVUIRCkfv5y_e73tNE2zUYPZcrUaoDFGo_qqQqRzWStsPMG5_u1v2ovECULSrXzq6FP-2wb3IZJDYspUSxVPb_XDdmvdrUut5MhiBpkHuNQIQCfY2y_nBIoV61taayEKjCv13kYm" group-title="Indonesia", 113 Astro Aura  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
-
-
-#EXTINF:-1  tvg-id="tvOne.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjh6yXcT5iGapwy2OizBNz7jqzRWyGGXADUp7-jMOdzWuQ7z2FqV7cziXp5PcTVV_W-ZeerlazFW0YCmUboSieuOWlsmz3P3y-w8GUJYzrZHDXxCALzgoIaS9O1CEUluwXadVWuzhh1B_6CGq_NAUEfX3b2uHfy5CoQd6uoAfRcFRu5ADnkYPeLiKLcZLyK" group-title="Indonesia",tvOne (1080p)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mp
-
-#EXTINF:-1  tvg-id="TVKU.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhoNnNsFpiTfqtsk-Dz1ixIy-9VegXEtDhFDKZurDS1u9izrrBJ54dAEI9bSqgd9YtuNAEgEcoIkPj7qmR4TofA5vHEAdkiSUrGQx2USeNm5_FW-RDbm9CVN3Xos2W07EG3RKXd4_p3cRYDTq11KcC0L0ORkrISdskI7uZ94Kgd8rz_dspQoVX2ZH2DpEb1" group-title="Indonesia",TVKU (720p)
-#http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1  tvg-id="Trans7.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg_FYScQo22JIwgrLf1gQfk_LPBaYKi9auo_Aaix7PRvp1ollly50Le-uElD64t--nXJgBWBBNqQ3jUTldhb9zAOhnhVCwY-XfXjHnakh8YKfXC7jB9J05hPR5aYj-rA35tIHUcgXUx1hejzupCMGNE_ZtHHQAhJcWArmcKbC1Apj0RD3LfJNggX9SPW3K_" group-title="Indonesia",Trans7 (720p)
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+    
+#EXTINF:-1 tvg-id="Trans7.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="INDONESIA",Trans7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1  tvg-id="TransTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEipcr0sLdsZYzOs5bVLfyLjQY_uWG_QphSPyQ4YnDJHeGJ99z2NS9AHUh7qi6nfhM1ublDLGXDRtD8zbbDfi6DN7Mtcffo3BFMKiAqXYtK3VHLMRtF4W3fCR76iYur-Vm17odok8JauD0ae8oBOyJ_Vzg50F-27k5OrwiFILGjXaDzLH3B9bFbD9HXpd5A-" group-title="Indonesia",Trans TV (720p)
+#EXTINF:-1 tvg-id="TransTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="INDONESIA",Trans TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="RIA HD" group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KUMVC_series_IVP_LAND_917x516_8ACBF_20251029_15925.jpg" group-title="MALAYSIA",Gegar Vaganza A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#https://5centscdn-sge1.mobileads.cloud/tokenas/ria/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
-
-#EXTINF:-1 tvg-name="RIA HD" group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KUMVC_series_IVP_LAND_917x516_8ACBF_20251029_15925.jpg" group-title="MALAYSIA",Gegar Vaganza B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#https://5centscdn-sge1.mobileads.cloud/tokens/ria/2411231/index.m3u8?referer=https://tvpm.tech&cookies=ej88736x56
-
-#EXTINF:-1  tvg-id="RajawaliTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjPLZJd8z_aoZ7juzwq1mvwuFz4Lf9AKT1PRh-P0fEzqg0EiWbEYI0goFBYayqePExFLbH0C0tM9Av-odxlXJbDYXCZbEDKsV6TFB3dQtOe7fNSr0kapveVMzwMSVSMuRTQIw0rdIXGW2CSEF9PPve2QKDZwErTtXq1yhVyyKJeGZzDU8ve9HGwoMcabLu2" group-title="Indonesia",Rajawali TV
-#https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
-
-#EXTINF:-1  tvg-id="NET.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBasrLFsaT5y80R61lBLA4_fRL6EWJrUMwl2zXxDwmRxTqOEFi2XMJk6CeQOJRt3m6dNs5dQXVWcXbICQzh0Zs-JuZAxTwzeT0JW5GSfqjiyzP_ugm6LzpaK0k5K-O2Lm3OoEB9ZynpdYunjtWqQzQYOlIrtk1bqDV6zSf9Jaa3G5TSZC4VqMRJhxTRTpb" group-title="Indonesia",NET. [Not 24/7]
-https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDYKhx6md96mojYuxzsG2Rp4VprqUPyry6n9m6UYkvpNuayPAbxpyFRwFDdPVHIee4halvqe35CygpiIPOQxfoQBVj5W7fnzCcTglV0oseDt9ApIhehbzuGZ8Csw3NlQ97k-kzOkhahW2sFQ-6EYaeHt3tlhTakjIIEHN9gPZLOeSLTwM1r17tpTtHhq2f" group-title="Indonesia", Bioskop 
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgAVusjlpMaQdUK3tHn5X-3TuV-qHEAcBWLo8AWRbMnCUKdzy65v75jbEpwr6W9duW3EV7cYrF6W0UXvaSJr8ALSYVJGj16EC0uiZeAcPaVI0hORTsRZoMYkPtKEqgOC7-5tIPY6vI8c0OpzqiWNqM_5FCZCIcaXU-o0kN6h6rra1ldrmJcMtA9t10x_meh" group-title="Indonesia" ,Dunia Lain 
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
-#EXTINF:-1  group-title="Indonesia" tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2mkz1InTrmkPv7LK3uCNDvA6RaV1w35Xq5nSk1ZK-417WInRH2A3w5DXdY1rmnLnkJdxk2jU8VuWsI1paqiMq-g7scS1qQFh9LSTec9EAe4kIVAFY66wddpTNXIUZwRbPOXb9u-ZB_-E8zM75GFpsukEvirNypQ5SraOB1EbAjM8bX345-Lcrf3VaaaFh",Flik
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbk897SF/573f546f-9605-45d1-8596-e2d7dda3253f-43.jpg" group-title="INDONESIA", Flik
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg0H28P0lNHWFC2kDLsVM9Q8avozcmNzGDXKLp-j9C_g8ApjRNo8A9JrRLiPPmuguuT5Ox6zKIXw1k4zG17hYId2Cbjp7jYsXn_odyi6TBHJ5pNNbGHY6vfA2UonId1ZdJ9JsW0W6JthJPb-v1rrVB4zbqsf91b6dwugQpZOa7zSoX3TZCaQmyZFeBQnTHa" group-title="Indonesia" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png", Citra Drama
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Indosiar.id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png" group-title="INDONESIA",Indosiar HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans7.id" tvg-logo="https://i.ibb.co/zHDC4PJ7/trans7-1c57de.jpg" group-title="INDONESIA",Trans 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="INDONESIA",Magna Channel  
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDONESIA",Inspira TV  
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDONESIA",CNBC INDONESIA 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="BandungTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="INDONESIA",Bandung TV 
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="INDONESIA",Banten TV  
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+
+
+@#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnYBzs60/logo-citradangdut-ver1.png" group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png",Citra Dangdut
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MentariTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="INDONESIA",Mentari TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#http://175.158.57.130:8888/stream/channelid/641828885
+
+@#EXTINF:-1 group-title="INDONESIA" tvg-id="OChannel.id" tvg-logo="https://i.ibb.co/nsMMPR5x/mojisocial-logo.jpg" group-title="INDONESIA",Moji
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV.id" tvg-logo="https://i.ibb.co/CKBcFznW/images.jpg" group-title="INDONESIA",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#http://203.77.246.58:4500/udp/239.1.1.108:5000
+
+@#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png", Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
-
-
-#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgVLBGcVqJTkvHWk8IE_7hDJIgDUkkShjY3Sff_fZfj5oaeuvrmKhN2pBupjlmL-TWUM2m_4Cb92K08sthR-aTNvjrIdTBIvUP3L1Gyvf_zOl4YbMxd-gOIe3juV_zYHYDsX1FU56NGRD1Jy3dUcIkkxVvqh3KmS7s3QZEulrGjS9fVIFJMFGwjLEuYnNrF" group-title="Indonesia",Da Vinci
+@#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="INDONESIA",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh0FVLjbBUpMMZojeJjVYgG2Nzcqs4y2PUwpX8bAzF8XcdYWSAKm_peGUhZoAZ2WiLrsBUttaEoXJDycGdDR8MBq-CcyEew-yizokKJEGS5vl8sXsNxCuNz-I0bNy2eEMQ3sH2OVKzdKxlAJyYu7C8M8YQEriLBDlXuuYAGZxeZOf-Erdg8DrjfX0rl6MAY" group-title="Indonesia", MUSIKINDO
+@#EXTINF:-1 tvg-logo="https://i.ibb.co/VHgW58G/musikindo-big-copy.png" group-title="INDONESIA", MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuf3DKp1DAeNaIkUx8UsX-AwdeopR9awK6CcJ4QJAoLz87U_-Ub0GjfVbcuSreUv0sD8Sp4cBjbRkFOvt2uS8CGFU8dsu8it0ygGdxoRb0ZvEngkwO7Xy3895PA6tVHDoMYypI8jCZGGd5IVsQ83IR_-M07ZM77S-wwRCpZvj_nQmLzRZbQGMsH6HvDBB6" group-title="Indonesia", SERU CHANNEL
+@#EXTINF:-1 tvg-logo="https://i.ibb.co/h7pszF9/seru-big-copy.png" group-title="INDONESIA", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1  group-title="Indonesia" tvg-id="Indosiar.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2Gg1CD39BMnDx2RAhsWjCzkrTjUqZn6oIO-4qoh-bGg6b_IlFHPwTh5KwEW_1wpK6DzM8H_Rb6YFDr_bNZsv7G73t_1XmWqJEh--X1RDR7DgBFVt2Fqs5UVc7KUOUoFGGk3riSaCesPVTWIri4KyKJyzb8v5h-vNN4rG1b8N30gAjpRg5wwxIcGf9sizp" group-title="Indonesia",Indosiar FHD
-https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+@#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Bioskop.png" group-title="INDONESIA", Bioskop (Not 24H)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1  group-title="Indonesia" tvg-id="Indosiar.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi2Gg1CD39BMnDx2RAhsWjCzkrTjUqZn6oIO-4qoh-bGg6b_IlFHPwTh5KwEW_1wpK6DzM8H_Rb6YFDr_bNZsv7G73t_1XmWqJEh--X1RDR7DgBFVt2Fqs5UVc7KUOUoFGGk3riSaCesPVTWIri4KyKJyzb8v5h-vNN4rG1b8N30gAjpRg5wwxIcGf9sizp" group-title="Indonesia",Indosiar SD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
-
-#EXTINF:-1  group-title="Indonesia" tvg-id="MentariTV.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiWN2jj-RgmKvCvJDAXjd09QwXYQrPaQhx9ZG9wgT3gZUMgKN1-lACtCKMNtiHy5t68cL4XrmGOBWfbh0nYANc61bSCF-nY-actd5tKYs9ce2SDI2caZvCXdUFyglm2byrRCC9aIQTPszR3sDjvGhu8EN2FbmtpqRCyV2dj3UAkL-cCjMKNMHZ9SiOktZoh" group-title="Indonesia",Mentari TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTINF:-1  group-title="Indonesia" tvg-id="OChannel.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEggAH7RGvfmaCUTv3iOo7ORhAObHeiRkHbL5ozaXaQ-nbCwBcOwTmXnwA_IY_q3sV0zhUlqgD36asEscw8uAhWaprmK6S_m0ZCo3ieWI6bVb5APWibKVV6SE9cFLcIFbR8C3yTGm6kwbnMDE-_sE2mV40g0noyHLu-K3jXGjRWhF79U6F0TaNQ_u8_7wAcN" group-title="Indonesia",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#EXTINF:-1  group-title="Indonesia" tvg-id="SCTV.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiULUGy2rKeo-sGPveHvgWfux2WbDPnBtZdGVYkS7ljylXUaZ9xgVLbbQMrglPb-DlVacsoYEXSQIh8C6F3CA3vggezy2VnmuXvglGgm-ktsd7jSJ0GSPQRoLcswf_6r2x8f-A_G4qiuVcWtNRfYEx215TGmtGaTcP2aB2BtpTiPvB8-Fi49coMgf9XS8Ga" group-title="Indonesia",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-
-#EXTINF:-1  tvg-id="MagnaChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEht1CaM8FO_df0JLd54klyecC26W6TL3neVY0c_BgBtj_7Z93Ncjw4-n09eyYg1wB-yeGyaCaqCSDDmcSXYXjMlOXDzpG8KB3irbX1SecvbQk7KRfRDv-pJY9zDH8IdRbML-x-RxKmahwOn9QxdRuVMxBvGb6cF2iCxgsSV5-AhagB9jJZcBzZyo1XCFJyD" group-title="Indonesia",Magna Channel (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3EQoT05KiXfQJWt6nOnqSIg3kQJNPPwW7FWyTMF7Vc8wbYzuvJ2Iy_oPNBtLnwUCjkzHEaw6Ty5eR_v5Difz6IXNRDRgUBdzh_zCcSVikRmJKlixvPwRKN6g5jcHeBL6FjPJCuP2ToPqVIaVGr95THHWM8KAeG9WNxGbV4ZcJlOUT4Q15JG0ZV_4L4qnA" group-title="Indonesia",Inspira TV (720p) [Not 24/7]
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-
-#EXTINF:-1  tvg-id="FicomChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhCvHF9VbbhvW7rk82HhANmobjQ4M8ZE5s7qxIE8-sxNdhpGNgrPFQMUYZkCiQe-3OJTBxWt_xArAHiuld1I-tdW6bS_vaT7Ccda-RUO7R1JcydrFIQnutXQu7mlE3GmTAXQo4SqvvrwbQnWqSR9TaAemkS03WxzULuy78XJeperRdi23LSQ8smjKzSF9As" group-title="Indonesia",Ficom Channel (720p)
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
-
-#EXTINF:-1  tvg-id="CNBCINDONESIA.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiTVeJ3rXZdxiCl97X9CstW56tM0BCoTvm8oeR7K7-7V7ogxaRT7MxlNT7IN3nTwwNrlMX3ToA2-Z0oRjKvMjA9dwJOukQ-7tjRmDl3TQxtIe8qe-bEz3QY0Fin_WOhlcxage30XW4yOPyUocigPyY92SP2O7FmdvyjQfVLp_OxSwEfW7DdGfFaH8grIitC" group-title="Indonesia",CNBC INDONESIA (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-
-#EXTINF:-1  tvg-id="BandungTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi12H91qTxTmhmGDNSvnpUxm0FPelp4MASub9zvcf2krdF9TTQCX-CNsXmTxsEwyK9M_zKwjadklhPzGeFeKEbTksHUSscbWuUhhk-5xumW3sBVcP9NjM41YrSeiKBmZNyY4K4vMygjVO9hoN4lzTQR2UI3rXvNZHG7R_JV-a09ya3V_7tkopPDvNKkmb7E" group-title="Indonesia",Bandung TV (360p)
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1  tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgNQtWU-6ceeg7xBU6I5uBpqbTuyuZfeA23fJ7WT1Bl-pPKdkbL24_bCichjDlsb5cz7A02lpGZ7AyydLZ6a3lHUJ7VoKBiVDonfW9KgDHrcwqcFJcB1JbZPd7dQjWslWvelgDcCOBI_PJ8jpLISv-F_qZSYsJGhu5hv9uVixHx1ePeBD7SWiG-dj2T8kgn" group-title="Indonesia",Banten TV (720p) [Not 24/7]
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-
-#EXTINF:-1  tvg-id="Kompas TV - [Channel 106].id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjhbWKUl36ytlOVOrmz6y_F4NTaqn2xWcLME2_X-h3r2myCYikzCVnyq6fzewrZvSqv7JF59lZDks3Hvusq_NscT__OTw3nZzgPHB2pJRGd-mMNUUk_3NvNZkndpGY5Oh9RniulcIJjBwvzFOszpQAr9sV73HHozl-ugSlqnamtPL2fNxFl1calgAJT2rHf" group-title="Indonesia",Kompas TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-
-#EXTINF:-1  group-title="Indonesia" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-id="mentaritv.id" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiWN2jj-RgmKvCvJDAXjd09QwXYQrPaQhx9ZG9wgT3gZUMgKN1-lACtCKMNtiHy5t68cL4XrmGOBWfbh0nYANc61bSCF-nY-actd5tKYs9ce2SDI2caZvCXdUFyglm2byrRCC9aIQTPszR3sDjvGhu8EN2FbmtpqRCyV2dj3UAkL-cCjMKNMHZ9SiOktZoh",Mentari TV 
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
-
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhY_CJjOgwbvRnDyIPqBVxCQqNFoEitHSlpVErw7Thc7Xl9sVy2SE8jHldsVnq9JahgBoaw-pgQS46aOvnGVAC1ZWKOb63dJsiU4VD5XpBFFrGLbJw46s33e_7kAEsgrkEXSLiIxca-QgmpOkF-Ahv4K4ApAqZaco25uvYm1mo8X5nMpl1xtOtyxlxN1jHT" group-title="Indonesia" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png",Citra Dangdut
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg0H28P0lNHWFC2kDLsVM9Q8avozcmNzGDXKLp-j9C_g8ApjRNo8A9JrRLiPPmuguuT5Ox6zKIXw1k4zG17hYId2Cbjp7jYsXn_odyi6TBHJ5pNNbGHY6vfA2UonId1ZdJ9JsW0W6JthJPb-v1rrVB4zbqsf91b6dwugQpZOa7zSoX3TZCaQmyZFeBQnTHa" group-title="Indonesia" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png", Citra Drama
-https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
-#EXTINF:-1  group-title="Indonesia" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhHxPZDTUJdPXpRlLi9PDqK9ZOCm46WgKSUIaYDLOI7IlPAv33UQ3WolMf2BVySdZIdZwEg0k76djhNjwrNq6chi9ZCcM_hGwIzfSSwUmU1rY3eSr06mcH3wT-O60gKVL-MQKAEr88U5dBpWV7JtPw3arHuJaq8rI8NceHVTDqX09Phpqukf-qsnUdDHwuB",ANTV
-https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+@#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-RFO_UgZPwvT9yma1pJBF_P7e7h23GbF0Iw&s" group-title="INDONESIA" ,Dunia Lain 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 ----------------------------------------------------------------------------
 
@@ -1466,7 +1405,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="Indonesia", RCTI
+#EXTINF:-1 tvg-id="RCTI.id" group-logo="https://iili.io/fyuagEX.jpg" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="Indonesia", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
