@@ -2307,9 +2307,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 #EXTM3U url-tvg="https://i.ibb.co/dBpcjkB/IMG-6206.jpg"                                        
 
-
-
 #EXTINF:-1 tvg-id="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-name="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" group-title="SCAMMER SHOP NAME TVTech Digital" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg", TVTech Digital Menjual ID Provider Server NS.Digital
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://i.ibb.co/dBpcjkB/IMG-6206.jpg
+https://i.ibb.co/dBpcjkB/IMG-6206.jpg
+
+#EXTINF:-1 tvg-id="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-name="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" group-title="SCAMMER SHOP NAME TVTech Digital" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg", Hanya Beli Di NS.Digital Shop Shj
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://i.ibb.co/dBpcjkB/IMG-6206.jpg
+https://i.ibb.co/dBpcjkB/IMG-6206.jpg
+
+#EXTINF:-1 tvg-id="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-name="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" group-title="SCAMMER SHOP NAME TVTech Digital" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg", Hak Milik NS.Digital Shop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 https://i.ibb.co/dBpcjkB/IMG-6206.jpg
