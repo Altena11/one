@@ -2402,7 +2402,7 @@ https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
 ###########################################EPG###############################################
 #EXTM3U
-#EXTM3U billed-msg="1 ID - 1 DEVICE ONLY"
+#EXTM3U billed-msg="HAK MILIK NS.Digital SHOP - 1 DEVICE ONLY"
 #EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/Altena11/Altena11/refs/heads/main/.gitignore,https://mokm32.github.io/new,https://mokm32.github.io/vod-top-20"
 
 ########################################################################PLUTO TV#########################################################################################
