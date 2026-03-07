@@ -2,7 +2,7 @@
 
 #EXTM3U billed-msg="SERVER HAS BE BANNED BY ASTRO™️"
 
-#EXTINF:-1 tvg-id="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-name="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" group-title="SERVER HAS BE BANNED BY ASTRO™️" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-logo="", BANNED SERVER
+#EXTINF:-1 tvg-id="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-name="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" group-title="SERVER HAS BE BANNED BY ASTRO™️" group-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg" tvg-logo="https://i.ibb.co/dBpcjkB/IMG-6206.jpg", BANNED SERVER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 https://i.ibb.co/dBpcjkB/IMG-6206.jpg
@@ -16,3 +16,4 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 https://i.ibb.co/dBpcjkB/IMG-6206.jpg
+
